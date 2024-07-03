@@ -1,2 +1,2 @@
 # AI project
-AI projects done in bootcamps & self learning process 
+AI projects done with teammates in bootcamps & self learning process 
